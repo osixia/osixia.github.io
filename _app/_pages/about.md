@@ -2,18 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-desc: 關於・について・Introduction
+desc: Introduction・Contact・Love
 ---
 
-This is an example About page.
+# Hi! We are Osixia.
 
-Sparanoid is a one-man design studio operated by Tunghsiao Liu, currently located in China. You can ping me on [Twitter](http://twitter.com/tunghsiao) or send correspondence to [t@sparanoid.com](mailto:t@sparanoid.com).
+We build great web apps in GO and Angular. We ship them over the world with Cordova or Docker.
 
-## Colophon
+We really love Docker, so to make it happy we run CoreOS and Kubernetes on our servers. It rocks. This 3 really match, I suspect them of being in love.
 
-[<abbr title="Almace Scaffolding">AMSF</abbr>](http://sparanoid.com/lab/amsf/) ([Source](http://github.com/sparanoid/sparanoid.com)) -
-[GitHub](http://github.com/) -
-[CloudFront](http://aws.amazon.com/cloudfront/) -
-[Textmate](http://macromates.com/)
+# And you ?
 
-All posts are &copy; Tunghsiao Liu, all rights reserved. The views expressed on this site are mine alone and not those of my employers and clients, past and present.
+Feel free to review our work on [GitHub](https://github.com/osixia?tab=repositories) or submit a pull request, we really appreciate it.
+
+You can contact us on [Twitter](https://twitter.com/osixia)

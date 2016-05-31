@@ -7,8 +7,8 @@
 # {{ author.web }}: used in atom feed
 # {{ author.twitter }}: used by Twitter Cards
 default:
-  name:         Tunghsiao Liu
-  email:        t@sparanoid.com
+  name:         Osixia
+  email:        contact@sparanoid.com
   web:          http://sparanoid.com/
   twitter:      tunghsiao
 

@@ -4,11 +4,8 @@
 - title: Docker-images
   url:   /docker/images/
 
-- title: Kubernetes
-  url:   /kubernetes/
-
-- title: News
-  url:   /news/
+- title: Blog
+  url:   /blog/
 
 - title: About
   url:   /about/

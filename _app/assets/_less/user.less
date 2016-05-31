@@ -44,9 +44,10 @@
 .osixia-title {
     text-align: justify;
     .we-dockerise {
-        letter-spacing: 0.1em;
+        letter-spacing: 0;
     }
-    .everything, .docker-images  {
+    .docker-images,
+    .everything {
         letter-spacing: 0.4em;
         background-color: #ff00b4;
         color: white;
@@ -64,5 +65,19 @@
     text-align: right;
 }
 .rose {
-  color: #ff00b4;
+    color: #ff00b4;
+}
+.content header {
+    min-height: 0;
+}
+@media (max-width: @breakpoint-sm) {
+    .osixia-title {
+        .docker-images,
+        .everything {
+            letter-spacing: 0.1em;
+            .asterix {
+                margin-left: -6px;
+            }
+        }
+    }
 }
