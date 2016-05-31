@@ -1,0 +1,10 @@
+---
+layout: page
+title: News
+permalink: /news/
+desc: Blog・News・Shares
+---
+
+{% for post in site.categories.news %}
+  {% include themes/{{ site.theme }}/includes/page-item.html %}
+{% endfor %}

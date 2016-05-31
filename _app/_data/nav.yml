@@ -1,0 +1,14 @@
+- title: __home__
+  url:   /
+
+- title: Docker-images
+  url:   /docker/images/
+
+- title: Kubernetes
+  url:   /kubernetes/
+
+- title: News
+  url:   /news/
+
+- title: About
+  url:   /about/
