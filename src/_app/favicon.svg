@@ -1,1 +1,95 @@
-<svg width="208" height="208" viewBox="0 0 208 208" xmlns="http://www.w3.org/2000/svg"><title>logo-black-mask-icon@1x</title><path d="M194 104c0-49.706-40.294-90-90-90s-90 40.294-90 90c0 25.874 10.918 49.198 28.4 65.615l3.206-32.727c.808-8.238 8.176-14.917 16.462-14.917 8.285 0 14.347 6.67 13.538 14.92l-4.97 50.724C80.952 191.734 92.21 194 104 194c2.19 0 4.36-.078 6.51-.232l9.986-101.88c.807-8.238 8.176-14.917 16.462-14.917 8.284 0 14.346 6.67 13.538 14.92l-9.217 94.052C172.38 171.77 194 140.41 194 104z" fill-rule="evenodd"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="161.55206mm"
+   height="161.55206mm"
+   viewBox="0 0 572.42857 572.42857"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/bertrand/Documents/osixia.github.io/src/_app/assets/svg/apple-touch-icon.png"
+   inkscape:export-xdpi="28.300474"
+   inkscape:export-ydpi="28.300474">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="7.710589"
+     inkscape:cy="109.61956"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1615"
+     inkscape:window-height="1026"
+     inkscape:window-x="1745"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.214264,-240.43365)">
+    <circle
+       style="fill:#ff00b4;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3336"
+       cx="369.42856"
+       cy="526.64795"
+       r="285.71429" />
+    <circle
+       style="fill:#ff0066"
+       id="path3340"
+       cx="366.57144"
+       cy="550.93365"
+       r="248.57143" />
+    <ellipse
+       style="fill:#ff0066"
+       id="path3342"
+       cx="472.14285"
+       cy="548.79077"
+       rx="7.8571429"
+       ry="23.571428" />
+    <circle
+       style="fill:#ffffff"
+       id="path3344"
+       cx="365.14285"
+       cy="529.21936"
+       r="192.85715" />
+    <circle
+       style="fill:#000000"
+       id="path3349"
+       cx="428.44885"
+       cy="528.54565"
+       r="115" />
+  </g>
+</svg>
