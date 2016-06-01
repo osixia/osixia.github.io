@@ -316,6 +316,9 @@ module.exports = (grunt) ->
       amsf__deploy__sparanoid__auto_commit:
         command: "bash <%= config.deploy.s3_website.dest %>/auto-commit '<%= config.pkg.name %>'"
 
+      copy__to__root:
+        command: "cp -r _site/lab/amsf/* ../"
+
       amsf__core__update_deps:
         command: [
           "bundle update"
@@ -609,6 +612,7 @@ module.exports = (grunt) ->
     "concurrent:dist"
     "usebanner"
     "cleanempty"
+    "copyToRoot"
   ]
 
   # Release new version
@@ -640,3 +644,7 @@ module.exports = (grunt) ->
           "shell:amsf__deploy__sparanoid__copy_to_local"
           "shell:amsf__deploy__sparanoid__auto_commit"
         ]
+
+  # Release new version
+  grunt.registerTask "copyToRoot", "Copy site files to root", (type) ->
+    grunt.task.run ["shell:copy__to__root"]
