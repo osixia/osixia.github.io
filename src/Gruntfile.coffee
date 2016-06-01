@@ -317,7 +317,7 @@ module.exports = (grunt) ->
         command: "bash <%= config.deploy.s3_website.dest %>/auto-commit '<%= config.pkg.name %>'"
 
       copy__to__root:
-        command: "cp -r _site/lab/amsf/* ../"
+        command: "cp -rf _site/* ../"
 
       amsf__core__update_deps:
         command: [

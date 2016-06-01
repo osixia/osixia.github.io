@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Osixia</title><subtitle>What we do ? We dockerize, everything.</subtitle><updated>2016-06-01T11:07:18+02:00</updated><id>https://osixia.github.io/lab/amsf/</id><rights>Copyright © 2016, Osixia</rights><link rel="alternate" type="text/html" hreflang="en" href="https://osixia.github.io/lab/amsf/" /><link rel="self" type="application/atom+xml" href="https://osixia.github.io/lab/amsf/feed.xml" /><author><name>Osixia</name><uri>https://osixia.github.io/lab/amsf/</uri><email>contact@sparanoid.com</email></author><entry><title>Deployment Methods</title><id>https://osixia.github.io/lab/amsf/deployment-methods.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/deployment-methods.html" /><published>2016-03-18T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Osixia</title><subtitle>What we do ? We dockerize, everything.</subtitle><updated>2016-06-01T11:15:26+02:00</updated><id>https://osixia.github.io/</id><rights>Copyright © 2016, Osixia</rights><link rel="alternate" type="text/html" hreflang="en" href="https://osixia.github.io/" /><link rel="self" type="application/atom+xml" href="https://osixia.github.io/feed.xml" /><author><name>Osixia</name><uri>https://osixia.github.io/</uri><email>contact@sparanoid.com</email></author><entry><title>Deployment Methods</title><id>https://osixia.github.io/deployment-methods.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/deployment-methods.html" /><published>2016-03-18T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to &lt;a href=&quot;https://jekyllrb.com/docs/deployment-methods/&quot;&gt;Jekyll - Deployment methods&lt;/a&gt;.&lt;/p&gt;
 
@@ -18,7 +18,7 @@
           
         
       
-        </content><summary>Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to Jekyll - Deployment methods.</summary></entry><entry><title>Welcome</title><id>https://osixia.github.io/lab/amsf/welcome.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/welcome.html" /><published>2014-06-13T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Sites generated using Almace Scaffolding can be deployed in nearly any web hosting services. A few of the most common deployment techniques are described below. More deployment methods please refer to Jekyll - Deployment methods.</summary></entry><entry><title>Welcome</title><id>https://osixia.github.io/welcome.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/welcome.html" /><published>2014-06-13T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;AMSF, a.k.a. &lt;strong&gt;Almace Scaffolding&lt;/strong&gt;, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.&lt;/p&gt;
 
@@ -52,7 +52,7 @@
           
         
       
-        </content><summary>AMSF, a.k.a. Almace Scaffolding, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.</summary></entry><entry><title>Getting Started</title><id>https://osixia.github.io/lab/amsf/getting-started.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/getting-started.html" /><published>2014-06-12T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>AMSF, a.k.a. Almace Scaffolding, is a super-fast Jekyll framework, supports live reloading (Browsersync), Less, HTML minification, inlined stylesheets and more.</summary></entry><entry><title>Getting Started</title><id>https://osixia.github.io/getting-started.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/getting-started.html" /><published>2014-06-12T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
 
@@ -98,7 +98,7 @@
           
         
       
-        </content><summary>Requirements</summary></entry><entry><title>Customizing Styles</title><id>https://osixia.github.io/lab/amsf/customizing-styles.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/customizing-styles.html" /><published>2014-06-11T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Requirements</summary></entry><entry><title>Customizing Styles</title><id>https://osixia.github.io/customizing-styles.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/customizing-styles.html" /><published>2014-06-11T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;You can customize the basic look and feel without touching the theme files by changing &lt;code class=&quot;highlighter-rouge&quot;&gt;user.js&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;user.less&lt;/code&gt;:&lt;/p&gt;
 
@@ -119,7 +119,7 @@
           
         
       
-        </content><summary>You can customize the basic look and feel without touching the theme files by changing user.js and user.less:</summary></entry><entry><title>Configuration</title><id>https://osixia.github.io/lab/amsf/configuration.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/configuration.html" /><published>2014-06-11T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>You can customize the basic look and feel without touching the theme files by changing user.js and user.less:</summary></entry><entry><title>Configuration</title><id>https://osixia.github.io/configuration.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/configuration.html" /><published>2014-06-11T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;configuration-settings&quot;&gt;Configuration Settings&lt;/h2&gt;
 
@@ -143,7 +143,7 @@
           
         
       
-        </content><summary>Configuration Settings</summary></entry><entry><title>Themes</title><id>https://osixia.github.io/lab/amsf/themes.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/themes.html" /><published>2014-06-10T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Configuration Settings</summary></entry><entry><title>Themes</title><id>https://osixia.github.io/themes.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/themes.html" /><published>2014-06-10T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -207,7 +207,7 @@
           
         
       
-        </content><summary>Overview</summary></entry><entry><title>Creating Your Own Theme</title><id>https://osixia.github.io/lab/amsf/creating-themes.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/creating-themes.html" /><published>2014-06-09T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Overview</summary></entry><entry><title>Creating Your Own Theme</title><id>https://osixia.github.io/creating-themes.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/creating-themes.html" /><published>2014-06-09T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
@@ -586,7 +586,7 @@ Reading time: 3 hrs 20 mins
           
         
       
-        </content><summary>Overview</summary></entry><entry><title>Syntax Highlighting</title><id>https://osixia.github.io/lab/amsf/syntax-highlighting.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/syntax-highlighting.html" /><published>2014-06-06T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Overview</summary></entry><entry><title>Syntax Highlighting</title><id>https://osixia.github.io/syntax-highlighting.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/syntax-highlighting.html" /><published>2014-06-06T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;Code highlighting demo, powered by Rouge. More info about code highlighting can be found at &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll’s documentation&lt;/a&gt;.&lt;/p&gt;
 
@@ -886,7 +886,7 @@ and &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nv&quot;&
           
         
       
-        </content><summary>Code highlighting demo, powered by Rouge. More info about code highlighting can be found at Jekyll’s documentation.</summary></entry><entry><title>Markdown Features Test</title><id>https://osixia.github.io/lab/amsf/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/markdown-features-test.html" /><published>2014-06-06T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Code highlighting demo, powered by Rouge. More info about code highlighting can be found at Jekyll’s documentation.</summary></entry><entry><title>Markdown Features Test</title><id>https://osixia.github.io/markdown-features-test.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/markdown-features-test.html" /><published>2014-06-06T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;indented-code-blocks&quot;&gt;Indented Code Blocks&lt;/h2&gt;
 
@@ -1022,7 +1022,7 @@ end
           
         
       
-        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>https://osixia.github.io/lab/amsf/markup-example.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/markup-example.html" /><published>2014-06-05T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Indented Code Blocks</summary></entry><entry><title>Markup Example</title><id>https://osixia.github.io/markup-example.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/markup-example.html" /><published>2014-06-05T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;Lorem lean startup ipsum &lt;strong&gt;product market fit customer development&lt;/strong&gt; acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying &lt;a href=&quot;#&quot;&gt;crowded market&lt;/a&gt; pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.&lt;/p&gt;
 
@@ -1259,7 +1259,7 @@ Careful Skippy, you really aren’t as convincing as you think you are.&lt;/p&gt
           
         
       
-        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary></entry><entry><title>Custom HTML Markups</title><id>https://osixia.github.io/lab/amsf/custom-html-markups.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/custom-html-markups.html" /><published>2014-06-01T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.</summary></entry><entry><title>Custom HTML Markups</title><id>https://osixia.github.io/custom-html-markups.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/custom-html-markups.html" /><published>2014-06-01T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;note-store-and-download&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.note&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;.store&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;.download&lt;/code&gt;&lt;/h2&gt;
 
@@ -1371,7 +1371,7 @@ Careful Skippy, you really aren’t as convincing as you think you are.&lt;/p&gt
           
         
       
-        </content><summary>.note, .store, and .download</summary></entry><entry><title>Custom Color Scheme</title><id>https://osixia.github.io/lab/amsf/custom-color-scheme.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/custom-color-scheme.html" /><published>2014-05-01T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>.note, .store, and .download</summary></entry><entry><title>Custom Color Scheme</title><id>https://osixia.github.io/custom-color-scheme.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/custom-color-scheme.html" /><published>2014-05-01T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;This is an example how to change your post color scheme for specific posts. You can simply add the following variables to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1396,7 +1396,7 @@ scheme-hero-bg: &quot;#0029ff&quot;
           
         
       
-        </content><summary>This is an example how to change your post color scheme for specific posts. You can simply add the following variables to your post front-matter field:</summary></entry><entry><title>Unique Post Styling via Custom CSS</title><id>https://osixia.github.io/lab/amsf/custom-css.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/custom-css.html" /><published>2014-04-01T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>This is an example how to change your post color scheme for specific posts. You can simply add the following variables to your post front-matter field:</summary></entry><entry><title>Unique Post Styling via Custom CSS</title><id>https://osixia.github.io/custom-css.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/custom-css.html" /><published>2014-04-01T00:00:00+02:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;This is an example how to change your post styling via CSS. You can simply add the &lt;code class=&quot;highlighter-rouge&quot;&gt;css&lt;/code&gt; option to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1417,7 +1417,7 @@ css: |
           
         
       
-        </content><summary>This is an example how to change your post styling via CSS. You can simply add the css option to your post front-matter field:</summary></entry><entry><title>SVG Post Ttile</title><id>https://osixia.github.io/lab/amsf/svg-post-title.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/svg-post-title.html" /><published>2014-02-01T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>This is an example how to change your post styling via CSS. You can simply add the css option to your post front-matter field:</summary></entry><entry><title>SVG Post Ttile</title><id>https://osixia.github.io/svg-post-title.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/svg-post-title.html" /><published>2014-02-01T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;This is an example of custom post title using SVG image. You can simply add the following setting to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1450,7 +1450,7 @@ img-headline-width: 500
           
         
       
-        </content><summary>This is an example of custom post title using SVG image. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>External Link Post</title><id>https://osixia.github.io/lab/amsf/external-link-post.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/external-link-post.html" /><published>2014-02-01T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>This is an example of custom post title using SVG image. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>External Link Post</title><id>https://osixia.github.io/external-link-post.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/external-link-post.html" /><published>2014-02-01T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;This is an example of Tumblr-like external link post. You can simply add the following setting to your post &lt;a href=&quot;http://jekyllrb.com/docs/frontmatter/&quot;&gt;front-matter field&lt;/a&gt;:&lt;/p&gt;
 
@@ -1464,7 +1464,7 @@ img-headline-width: 500
           &lt;p&gt;&lt;a href=&quot;http://sparanoid.com/&quot;&gt;&lt;small&gt;◉ Direct Link to Original Site&lt;/small&gt;&lt;/a&gt;&lt;/p&gt;
         
       
-        </content><summary>This is an example of Tumblr-like external link post. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>GitHub Pages Setup Guide</title><id>https://osixia.github.io/lab/amsf/github-pages-setup.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/lab/amsf/github-pages-setup.html" /><published>2014-01-01T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/lab/amsf/">
+        </content><summary>This is an example of Tumblr-like external link post. You can simply add the following setting to your post front-matter field:</summary></entry><entry><title>GitHub Pages Setup Guide</title><id>https://osixia.github.io/github-pages-setup.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/github-pages-setup.html" /><published>2014-01-01T00:00:00+01:00</published><updated>2016-06-01T10:35:58+02:00</updated><author><name>Osixia</name><uri>http://sparanoid.com/</uri><email>contact@sparanoid.com</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
 

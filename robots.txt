@@ -1,4 +1,4 @@
 User-agent: *
 
 
-Sitemap: https://osixia.github.io/lab/amsf/sitemap.xml
+Sitemap: https://osixia.github.io/sitemap.xml
