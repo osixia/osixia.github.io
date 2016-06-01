@@ -8,9 +8,9 @@
 # {{ author.twitter }}: used by Twitter Cards
 default:
   name:         Osixia
-  email:        contact@sparanoid.com
-  web:          http://sparanoid.com/
-  twitter:      tunghsiao
+  email:        bertrand.gouny@osixia.net
+  web:          https://osixia.github.io
+  twitter:      osixia
 
 tester:
   name:         Tester
