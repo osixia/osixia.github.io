@@ -8,7 +8,7 @@ Hello, we just pushed updated versions of all our docker images, find details be
 
 # Packages Updates
 
-The following images don't have any new release number but there packages have been updated.
+The following images don't have any new release number but their packages have been updated.
 
  - light-baseimage:0.2.4
  - ubuntu-light-baseimage:0.1.6
