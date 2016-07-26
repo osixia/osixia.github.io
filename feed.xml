@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Osixia</title><subtitle>What we do ? We dockerize, everything.</subtitle><updated>2016-06-01T20:40:09+02:00</updated><id>https://osixia.github.io/</id><rights>Copyright © 2016, Osixia</rights><link rel="alternate" type="text/html" hreflang="en" href="https://osixia.github.io/" /><link rel="self" type="application/atom+xml" href="https://osixia.github.io/feed.xml" /><author><name>Osixia</name><uri>https://osixia.github.io/</uri><email>bertrand.gouny@osixia.net</email></author><entry><title>Hi! Welcome</title><id>https://osixia.github.io/hi-welcome.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/hi-welcome.html" /><published>2016-06-01T00:00:00+02:00</published><updated>2016-06-01T13:26:15+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Osixia</title><subtitle>What we do ? We dockerize, everything.</subtitle><updated>2016-07-26T20:55:45+02:00</updated><id>https://osixia.github.io/</id><rights>Copyright © 2016, Osixia</rights><link rel="alternate" type="text/html" hreflang="en" href="https://osixia.github.io/" /><link rel="self" type="application/atom+xml" href="https://osixia.github.io/feed.xml" /><author><name>Osixia</name><uri>https://osixia.github.io/</uri><email>bertrand.gouny@osixia.net</email></author><entry><title>Summer Refreshing Updates</title><id>https://osixia.github.io/summer-refreshing-updates.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/summer-refreshing-updates.html" /><published>2016-07-26T00:00:00+02:00</published><updated>2016-07-26T17:33:05+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
+          
+            &lt;p&gt;Hello, we just pushed updated versions of all our docker images, find details below:&lt;/p&gt;
+
+&lt;h1 id=&quot;packages-updates&quot;&gt;Packages Updates&lt;/h1&gt;
+
+&lt;p&gt;The following images don’t have any new release number but there packages have been updated.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;light-baseimage:0.2.4&lt;/li&gt;
+  &lt;li&gt;ubuntu-light-baseimage:0.1.6&lt;/li&gt;
+  &lt;li&gt;experimental-light-baseimage:0.1.3&lt;/li&gt;
+  &lt;li&gt;web-baseimage:0.1.10&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;openldap&quot;&gt;Openldap&lt;/h1&gt;
+&lt;p&gt;New version : 1.1.4 - &lt;a href=&quot;https://github.com/osixia/docker-openldap/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;openldap-backup&quot;&gt;Openldap Backup&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.9 - &lt;a href=&quot;https://github.com/osixia/docker-openldap-backup/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;phpldapadmin&quot;&gt;phpLDAPadmin&lt;/h1&gt;
+&lt;p&gt;New version : 0.6.10 - &lt;a href=&quot;https://github.com/osixia/docker-phpLDAPadmin/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;mariadb&quot;&gt;MariaDB&lt;/h1&gt;
+&lt;p&gt;New version : 0.2.10 - &lt;a href=&quot;https://github.com/osixia/docker-mariadb/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;phpmyadmin&quot;&gt;phpMyAdmin&lt;/h1&gt;
+&lt;p&gt;New version : 0.3.6 - &lt;a href=&quot;https://github.com/osixia/docker-phpMyAdmin/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;roundcube&quot;&gt;Roundcube&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.3 - &lt;a href=&quot;https://github.com/osixia/docker-roundcube/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;gitlab&quot;&gt;GitLab&lt;/h1&gt;
+&lt;p&gt;New version : 8.10.0 - &lt;a href=&quot;https://github.com/osixia/docker-gitlab/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;keepalived&quot;&gt;Keepalived&lt;/h1&gt;
+&lt;p&gt;New version : 0.2.2 - &lt;a href=&quot;https://github.com/osixia/docker-keepalived/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;keepalive-confd-config&quot;&gt;Keepalive CONFD config&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.2 - &lt;a href=&quot;https://github.com/osixia/docker-keepalived-confd/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;backup-manager&quot;&gt;Backup Manager&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.6 - &lt;a href=&quot;https://github.com/osixia/docker-backup-manager/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;docker-registry-ldap-auth-proxy&quot;&gt;Docker registry LDAP auth proxy&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.1 - &lt;a href=&quot;https://github.com/osixia/docker-registry-ldap-auth/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;cfssl-multirootca&quot;&gt;CFSSL Multirootca&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.1 - &lt;a href=&quot;https://github.com/osixia/docker-cfssl-multirootca/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;tinc&quot;&gt;Tinc&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.2 - &lt;a href=&quot;https://github.com/osixia/docker-tinc/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;tinc-etcd-config&quot;&gt;Tinc ETCD config&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.1 - &lt;a href=&quot;https://github.com/osixia/docker-tinc-etcd/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;mmc-web&quot;&gt;MMC Web&lt;/h1&gt;
+&lt;p&gt;New version : 1.0.2 - &lt;a href=&quot;https://github.com/osixia/docker-mmc-web/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;mmc-agent&quot;&gt;MMC Agent&lt;/h1&gt;
+&lt;p&gt;New version : 1.0.2 - &lt;a href=&quot;https://github.com/osixia/docker-mmc-agent/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;mmc-mail&quot;&gt;MMC Mail&lt;/h1&gt;
+&lt;p&gt;New version : 0.1.8 - &lt;a href=&quot;https://github.com/osixia/docker-mmc-mail/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;baseimage&quot;&gt;Baseimage&lt;/h1&gt;
+&lt;p&gt;New version : 0.12.2 - &lt;a href=&quot;https://github.com/osixia/docker-keepalived/blob/stable/CHANGELOG.md&quot;&gt;Changelog&lt;/a&gt;.&lt;/p&gt;
+
+          
+          
+        
+      
+        </content><summary>Hello, we just pushed updated versions of all our docker images, find details below:</summary></entry><entry><title>Hi! Welcome</title><id>https://osixia.github.io/hi-welcome.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/hi-welcome.html" /><published>2016-06-01T00:00:00+02:00</published><updated>2016-06-01T13:26:15+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;You are on our brand new blog :) We will post here docker images updates, development ideas or just anything we want to share with you. You can also follow us on &lt;a href=&quot;https://twitter.com/osixia&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
 
