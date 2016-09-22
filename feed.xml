@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Osixia</title><subtitle>What we do ? We dockerize, everything.</subtitle><updated>2016-09-22T14:55:40+02:00</updated><id>https://osixia.github.io/</id><rights>Copyright © 2016, Osixia</rights><link rel="alternate" type="text/html" hreflang="en" href="https://osixia.github.io/" /><link rel="self" type="application/atom+xml" href="https://osixia.github.io/feed.xml" /><author><name>Osixia</name><uri>https://osixia.github.io/</uri><email>bertrand.gouny@osixia.net</email></author><entry><title>Back To School</title><id>https://osixia.github.io/back-to-school.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/back-to-school.html" /><published>2016-09-22T00:00:00+02:00</published><updated>2016-09-22T14:54:31+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><title>Osixia</title><subtitle>What we do ? We dockerize, everything.</subtitle><updated>2016-09-22T15:36:01+02:00</updated><id>https://osixia.github.io/</id><rights>Copyright © 2016, Osixia</rights><link rel="alternate" type="text/html" hreflang="en" href="https://osixia.github.io/" /><link rel="self" type="application/atom+xml" href="https://osixia.github.io/feed.xml" /><author><name>Osixia</name><uri>https://osixia.github.io/</uri><email>bertrand.gouny@osixia.net</email></author><entry><title>Back To School</title><id>https://osixia.github.io/back-to-school.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/back-to-school.html" /><published>2016-09-22T00:00:00+02:00</published><updated>2016-09-22T14:56:17+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
           
-            &lt;p&gt;When kids go back to school we go on hollidays :) But before that we just release new light-baseimage versions and some new docker images!&lt;/p&gt;
+            &lt;p&gt;When kids go back to school we go on holidays :) But before that we just release new light-baseimage versions and some new docker images!&lt;/p&gt;
 
 &lt;h1 id=&quot;new-light-baseimage-images&quot;&gt;New light-baseimage images&lt;/h1&gt;
 
 &lt;p&gt;Alpine is here! In beta for now an Alpine version of light-baseimage is now availaible.
 More info on &lt;a href=&quot;https://github.com/osixia/docker-light-baseimage/tree/feature-linux-alpine&quot;&gt;Alpine-light-baseimage GitHub&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Alipne offer a mutch more light weight image and speed up deployment time:&lt;/p&gt;
+&lt;p&gt;Alipne offer a much more light weight image and speed up deployment time:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;osixia/alpine-light-baseimage: 44.88 MB&lt;/li&gt;
@@ -31,7 +31,7 @@ More info on &lt;a href=&quot;https://github.com/osixia/docker-light-baseimage/t
           
         
       
-        </content><summary>When kids go back to school we go on hollidays :) But before that we just release new light-baseimage versions and some new docker images!</summary></entry><entry><title>Summer Refreshing Updates</title><id>https://osixia.github.io/summer-refreshing-updates.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/summer-refreshing-updates.html" /><published>2016-07-26T00:00:00+02:00</published><updated>2016-07-26T21:43:57+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
+        </content><summary>When kids go back to school we go on holidays :) But before that we just release new light-baseimage versions and some new docker images!</summary></entry><entry><title>Summer Refreshing Updates</title><id>https://osixia.github.io/summer-refreshing-updates.html</id><link rel="alternate" type="text/html" href="https://osixia.github.io/summer-refreshing-updates.html" /><published>2016-07-26T00:00:00+02:00</published><updated>2016-07-26T21:43:57+02:00</updated><author><name>Osixia</name><uri>https://osixia.github.io</uri><email>bertrand.gouny@osixia.net</email></author><content type="html" xml:base="https://osixia.github.io/">
           
             &lt;p&gt;Hello, we just pushed updated versions of all our docker images, find details below:&lt;/p&gt;
 
