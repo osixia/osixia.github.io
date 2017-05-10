@@ -116,10 +116,6 @@ del {
   opacity: .2;
   color: #000;
   }
-::-moz-placeholder {
-  opacity: .2;
-  color: #000;
-  }
 :-ms-input-placeholder {
   opacity: .2;
   color: #000;
@@ -129,9 +125,6 @@ del {
   color: #000;
   }
 :focus::-webkit-input-placeholder {
-  color: #ff00b4;
-  }
-:focus::-moz-placeholder {
   color: #ff00b4;
   }
 :focus:-ms-input-placeholder {
