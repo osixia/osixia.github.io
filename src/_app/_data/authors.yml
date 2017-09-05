@@ -9,7 +9,7 @@
 default:
   name:         Osixia
   email:        bertrand.gouny@osixia.net
-  web:          https://osixia.github.io
+  web:          http://www.osixia.net
   twitter:      osixia
 
 tester:
